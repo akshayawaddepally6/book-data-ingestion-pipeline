@@ -18,7 +18,7 @@ This project automates the ETL (Extract, Transform, Load) process for collecting
 * pandas
 * SQLAlchemy
 * PostgreSQL
-* Airflow (optional, for scheduling)
+* Airflow
 
 ## 📁 Structure
 
